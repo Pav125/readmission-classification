@@ -1,1 +1,2 @@
-# readmission-prediction
+# Hospital Readmission Prediction using ML techniques
+This repo contains the final version of our project to identify determinants of, and predict hospital readmission in medical data. The repo contains data input file, Jupyter notebook containing pre-processing code and modeling, as well as final output files produced.The dataset used is publicly available here at https://www.kaggle.com/datasets/dansbecker/hospital-readmissions.
