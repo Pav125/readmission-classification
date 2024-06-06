@@ -37,4 +37,4 @@ Contributions to this project are welcome! If you have any suggestions for impro
 
 ## Contact
 
-For feedback, questions, or collaboration opportunities, please reach out to me.
+For feedback, questions, or collaboration opportunities, please reach out to me at devipavan824@gmail.com.
